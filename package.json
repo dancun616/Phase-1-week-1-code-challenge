@@ -1,0 +1,26 @@
+{
+  "name": "phase-1-week-1-code-challenge",
+  "version": "1.0.0",
+  "description": "Moringa phase-1-week-1-coding-challenge",
+  "main": "netSalaryCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node netSalaryCalculator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dancun616/week-1-code-challenge"
+  },
+  "keywords": [
+    "if...else",
+    "functions",
+    "recursion",
+    "eventListeners"
+  ],
+  "author": "Dancun Odhiambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancun616/week-1-code-challenge"
+  },
+  "homepage": "https://github.com/dancun616/week-1-code-challenge"
+}
