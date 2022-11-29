@@ -19,7 +19,7 @@ clone project from github:  git@github.com:https://github.com/dancun616/week-1-c
 
 Navigate into file:
 
-phase-1-week-1-code-challenge in local repository
+week-1-code-challenge in local repository
 
 To open site in browser:
 
