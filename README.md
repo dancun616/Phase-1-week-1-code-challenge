@@ -15,7 +15,7 @@ HTML, CSS and JavaScript.
 
 
 ## Installation
-clone project from github:  git@github.com:https://github.com/dancun616/week-1-code-challenge
+clone project from github:  git@github.com:https://github.com/dancun616/Phase-1-week-1-code-challenge
 
 Navigate into file:
 
