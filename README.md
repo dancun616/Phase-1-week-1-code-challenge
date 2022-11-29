@@ -1,5 +1,5 @@
 
-# Phase-1-week-1-code-challenges
+# Phase-1-week-1-code-challenge
 
 ## Description
 Moringa School software development Flatiron phase-1-week-1-code-challenges covers three challenges solved using:
